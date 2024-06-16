@@ -1,0 +1,9 @@
+banao x = 10;
+agar (x > 5)
+{
+    likho("The X is greated than 5");
+}
+warna
+{
+    likho("The X is less than 5");
+}
